@@ -10,11 +10,11 @@ Abstract :
 
 We study the population dynamics of ecological communities using the Leslie matrix, which allows them to be modeled in a simple way in mathematical terms. By modeling these populations, which satisfy the model's own assumptions, we obtain their population growth path and in turn predict the next instant on that path. Likewise, we implemented the model to make possible the simulation of the dynamic behavior of ecological populations that we take as application examples of the proposed model.
 
-Keywords: Leslie Matrix, Population Dynamics, Predict, Model, Age, Female, Long-Term, Python.\\ 
+Keywords: Leslie Matrix, Population Dynamics, Predict, Model, Age, Female, Long-Term, Python.
 
 INTRODUCCION
 
-La {\it dinámica de poblaciones} es una de las principales áreas de interés de la {\it Biología Matemática} (Biomatemática) que se ocupa del estudio de las poblaciones biológicas.Asimismo, modela mediante ecuaciones matemáticas el comportamiento de las poblaciones, para así poder {\it predecir} los cambios numéricos que sufren, determinar sus causas, predecir su comportamiento y analizar sus consecuencias ecológicas. 
+La dinámica de poblaciones es una de las principales áreas de interés de la Biología Matemática (Biomatemática) que se ocupa del estudio de las poblaciones biológicas.Asimismo, modela mediante ecuaciones matemáticas el comportamiento de las poblaciones, para así poder predecir los cambios numéricos que sufren, determinar sus causas, predecir su comportamiento y analizar sus consecuencias ecológicas. 
 
 Existen muchos modelos en dinámica de poblaciones, los cuales tienen un desarrollo paulatino, de menor a mayor dificultad técnica, con el objetivo de captar lo que ocurre en la realidad a estudiar. Siendo esto el punto de quiebre que permite admitir un modelo o bien transformarlo en otro nuevo, generalmente más complejo, que intente reﬂejar mejor la realidad.
 
